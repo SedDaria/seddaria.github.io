@@ -1,0 +1,133 @@
+@font-face {
+    font-family: "Nunito";
+    src: url(./fonts/Nunito-VariableFont_wght.ttf);
+}
+.my_photo{
+    object-fit: cover;
+    width: 60%;
+    height: 80%;
+    margin: 50px 0 0 150px;
+    -webkit-border-radius: 10em;
+	-moz-border-radius: 10em;
+	border-radius: 10em;
+}
+#title{
+    text-align: center;
+    margin: auto;
+}
+#h1{
+    font-size: 70px;
+    font-weight: 600;
+    font-family: "Nunito", sans-serif;
+}
+.about_me{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border: 1px solid #c4cecf;
+    border-radius: 10px;
+}
+#top{
+    margin-top: 50px;
+}
+#top_title{
+    margin-top: 50px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 700;
+    text-decoration: underline;
+}
+#center{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.container_2{
+    margin-top: 50px;
+}
+.noda_title{
+    text-align: center;
+    margin-top: 20px;
+}
+.heapp_title{
+    text-align: center;
+}
+.logonoda{
+    object-fit: cover;
+    width: 70px;
+    height: 70px;
+    margin-left: 20px;
+}
+.logoHeapp{
+    object-fit: cover;
+    width: 100px;
+    height: 100px;
+}
+.html_logo{
+    object-fit: cover;
+    width: 45px;
+    height: 45px;
+}
+.css_logo{
+    object-fit: cover;
+    width: 50px;
+    height: 50px;
+}
+.jslogo{
+    object-fit: cover;
+    width: 40px;
+    height: 40px;
+}
+.vuelogo{
+    object-fit: cover;
+    width: 50px;
+    height: 50px;
+}
+.nodelogo{
+    object-fit: cover;
+    width: 50px;
+    height: 50px;  
+}
+.bootlogo{
+    object-fit: cover;
+    width: 60px;
+    height: 60px;  
+}
+.vslogo{
+    object-fit: cover;
+    width: 45px;
+    height: 45px; 
+}
+.gitlogo{
+    object-fit: cover;
+    width: 45px;
+    height: 45px; 
+}
+.figmalogo{
+    object-fit: cover;
+    width: 70px;
+    height: 40px; 
+}
+#gitimg{
+    height: 463px;
+}
+#calcimg{
+    height: 463px;
+}
+#taskimg{
+    height: 515px;
+}
+.card{
+    margin: 20px 0 20px 0;
+}
+#footer_imgvk{
+    object-fit: cover;
+    width: 50px;
+    height: 50px;
+}
+#footer_imggit{
+    object-fit: cover;
+    width: 46x;
+    height: 46px;
+}
+#footer{
+    margin-left: 717px;
+}
